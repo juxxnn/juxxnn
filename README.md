@@ -67,12 +67,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxxnn&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<br><div>
 
-
-<img  src ="https://spotify-playing-now-readme-b4x2pr4r1-juxxnn.vercel.app/api/now-playing" largura =" 540 " altura ="52" />
-
-<div/>
                                                                                                              
 </td>
 <td valign="top">
