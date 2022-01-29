@@ -1,7 +1,7 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
 
 <h1 align="center">Hello, World! 👋</h1>
-<h5 align="center">Full Stack Java Developer <br>Studying Computer Engineering at UNIVESP</h5> 
+<h5 align="center">Full Stack Java Developer <br>Computer Engineering Student at UNIVESP</h5> 
 
 <div>
 <h2 align="center">  </h2>
