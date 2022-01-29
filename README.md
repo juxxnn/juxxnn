@@ -1,7 +1,7 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
 
 <h1 align="center">Hello, World! 👋</h1>
-<h5 align="center">Full Stack Java Developer <br>Studying Computer Engineering at UNIVESP</h5>
+<h5 align="center">Full Stack Java Developer <br>Studying Computer Engineering at UNIVESP</h5> 
 
 <div>
 <h2 align="center">  </h2>
@@ -10,7 +10,7 @@
 <li>My name is Juliana Silva, but I like to be called by my nickname, Ju.</li>
 <li>Pronouns: She/Her</li>
 <li>I am 24 years old and I live in São Paulo, São Paulo - Brazil.</li>
-<li>I am a Java Full Stack developer and a Computer Engineering student at UNIVESP.</li>                                                                                        <li>Fun fact: my zodiac sign is Aquarius.</li>
+<li>I am a Java Full Stack developer and a Computer Engineering student at UNIVESP.</li>                                                                                        <li>Fun fact: my zodiac sign is Aquarius. :aquarius: </li>
 
 <br>
 <br>                                                                                                                  
@@ -47,6 +47,8 @@
   <a href="https://www.linkedin.com/in/julianatadeudasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href="https://t.me/juxxnn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discord.gg/juxxnn#3038" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a> 
+  <a href="mailto:julianastankovic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 </div>
 
 <br>
