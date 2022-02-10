@@ -1,16 +1,17 @@
 <p align=" left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
 
 <h1 align="center">Hello, World!</h1>
-<h5 align="center">Full Stack Java Developer <br>Computer Engineering Student at UNIVESP</h5> 
+<h5 align="center">Desenvolvedora Full Stack Java <br> Estudante de Engenharia da Computação na UNIVESP</h5> 
 
 <div>
 <h2 align="center">  </h2>
 <img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">
   
-<li>My name is Juliana Silva, but I like to be called by my nickname, Ju.</li>
-<li>Pronouns: She/Her</li>
-<li>I am 24 years old and I live in São Paulo, São Paulo - Brazil.</li>
-<li>I am a Java Full Stack developer and a Computer Engineering student at UNIVESP.</li>                                                                                        <li>Fun fact: my zodiac sign is Aquarius. :aquarius: </li>
+<li>Meu nome é Juliana Silva, mas gosto de ser chamada pelo meu apelido, Ju.</li>
+<li>Pronomes: ela/ela</li>
+<li>Tenho 24 anos e moro em São Paulo, São Paulo - Brasil.</li>
+<li>Sou desenvolvedora Java Full Stack e estudante de Engenharia da Computação na UNIVESP.</li> 
+<li>Curiosidade: meu signo do zodíaco é Aquário. :aquário: </li>
 
 <br>
 <br>                                                                                                                  
@@ -19,7 +20,7 @@
 <br>
                                                                                                                   
 </a> </p>
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
                
 <div>
@@ -40,7 +41,7 @@
 <br>
 
 </a> </p>
-<h3 align="left">Connect and contact me:</h3>
+<h3 align="left">Conecte-se e entre em contato comigo:</h3>
 <p align="left">
 
 <div> 
