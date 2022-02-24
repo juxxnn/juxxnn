@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-  <img height="550px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+  <img height="150px" width="300px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
   ##
 
