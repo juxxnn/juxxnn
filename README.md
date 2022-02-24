@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
 
+<h1 align="center">Hello, World!</h1>
 <h4 align="center">
 
   <img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
 
   ##
 
-<h1 align="center">Hello, World!</h1>
 <h5 align="center">Desenvolvedora Full Stack Java <br> Estudante de Engenharia da Computação na UNIVESP</h5> 
 
 <div>
