@@ -1,4 +1,10 @@
-<p align=" left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
+
+<h4 align="center">
+
+  <img height="550px" width="1000px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+
+  ##
 
 <h1 align="center">Hello, World!</h1>
 <h5 align="center">Desenvolvedora Full Stack Java <br> Estudante de Engenharia da Computação na UNIVESP</h5> 
@@ -49,7 +55,6 @@
   <a href="https://t.me/juxxnn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discord.gg/juxxnn#3038" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a> 
   <a href="mailto:julianastankovic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
 </div>
 
 <br>
@@ -73,7 +78,8 @@
 </td>
 <td valign="top">
  
-  
+ <div align="center">
 
   ![Snake animation](https://github.com/juxxnn/juxxnn/blob/output/github-contribution-grid-snake.svg)
 
+</div>
