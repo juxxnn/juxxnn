@@ -8,10 +8,16 @@
   ##
 
 <h5 align="center">Desenvolvedora Full Stack Java <br> Estudante de Engenharia da Computação na UNIVESP</h5> 
-
+  
 <div>
 <h2 align="center">  </h2>
 <img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">
+ 
+<br>
+<br> 
+<br>
+<br>                                                                                                                   
+                                                                                                                  
   
 <li>Meu nome é Juliana Silva, mas podem me chamar de Ju.</li>
 <li>Pronomes: ela/dela.</li>
