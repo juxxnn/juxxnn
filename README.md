@@ -39,7 +39,10 @@
 
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />               
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />                                                                         
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> 
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+                                                                                                   
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
