@@ -1,29 +1,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
 
-<h1 align="center">Hello, World!</h1>
 <h4 align="center">
 
-  <img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+<img height="400px" width="800px" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
+</h4>
 
-  ##
-
-<h5 align="center">Desenvolvedora Full Stack Java <br> Estudante de Engenharia da Computação na UNIVESP</h5> 
-  
-<div>
-<h2 align="center">  </h2>
-<img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">
- 
-<br>
-<br> 
-<br>
-<br>                                                                                                                   
-                                                                                                                  
+<h1 align="center">Hello, World!</h1>
+</h2>
+<img src=https://assignmentstudio.net/wp-content/uploads/2021/02/giphy.gif" width="30%" height="30%" align="right">                                                 <br>
+<br>                                                                                                                  
+<br>                                                               
   
 <li>Meu nome é Juliana Silva, mas podem me chamar de Ju.</li>
 <li>Pronomes: ela/dela.</li>
 <li>Tenho 24 anos e moro em São Paulo, São Paulo - Brasil.</li>
-<li>Sou desenvolvedora Java Full Stack e estudante de Engenharia da Computação na UNIVESP.</li> 
-<li>Curiosidade: meu signo do zodíaco é Aquário &#9810;. </li>
+<li>Estudante de Engenharia da Computação na UNIVESP.</li>
+<li>Software Developer Intern na IBM.</li>                                                                                                     
+<li>Curiosidade: meu signo do zodíaco é Aquário e sou o reflexo dele. </li>
 
 <br>
 <br>                                                                                                                  
@@ -32,37 +25,41 @@
 <br>
                                                                                                                   
 </a> </p>
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
+<h3 align="center">Linguagens e ferramentas:</h3>
+<p align="center">
                
 <div>
-
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />               
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-                                                                                                   
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />                                                               <img height="50em" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>                             
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />                                                       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+               
+<p align="center">
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />               
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />                                                                                           
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />                                                               <img height="30em" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>                             
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />                                                       <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                 
+</p>               
 </div> 
 
 <br>
 
 </a> </p>
-<h3 align="left">Conecte-se e entre em contato comigo:</h3>
-<p align="left">
+<h3 align="center">Conecte-se e entre em contato comigo:</h3>
+<p align="center">
 
 <div> 
+              
+<p align="center">                 
   <a href="https://www.linkedin.com/in/julianatadeudasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href="https://t.me/juxxnn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://discord.gg/juxxnn#2841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a> 
   <a href="mailto:julianastankovic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  </p>
 </div>
 
 <br>
@@ -81,10 +78,10 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juxxnn&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
-                                                                                                             
+                                                                                                           
 </td>
 <td valign="top">
+                
  
  <div align="center">
 
