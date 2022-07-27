@@ -15,7 +15,7 @@
 <li>Pronomes: ela/dela.</li>
 <li>Tenho 24 anos e moro em São Paulo, São Paulo - Brasil.</li>
 <li>Estudante de Engenharia da Computação na UNIVESP.</li>
-<li>Software Developer Intern na IBM.</li>                                                                                                     
+<li>Application Developer na IBM.</li>                                                                                                     
 <li>Curiosidade: meu signo do zodíaco é Aquário e sou o reflexo dele. </li>
 
 <br>
