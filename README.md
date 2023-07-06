@@ -15,7 +15,7 @@
 <li>Pronomes: ela/dela.</li>
 <li>Tenho 25 anos e moro em São Paulo, São Paulo - Brasil.</li>
 <li>Estudante de Engenharia da Computação na UNIVESP.</li>
-<li>Application Developer na IBM.</li>                                                                                                     
+<li>Estagiária em Engenharia no Itaú Unibanco.</li>                                                                                                     
 <li>Curiosidade: meu signo do zodíaco é Aquário e sou o reflexo dele. </li>
 
 <br>
