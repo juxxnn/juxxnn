@@ -15,8 +15,8 @@
 <li>Pronomes: ela/dela.</li>
 <li>Tenho 25 anos e moro em São Paulo, São Paulo - Brasil.</li>
 <li>Estudante de Engenharia da Computação na UNIVESP.</li>
-<li>Estagiária em Engenharia no Itaú Unibanco.</li>                                                                                                     
-<li>Curiosidade: meu signo do zodíaco é Aquário e sou o reflexo dele. </li>
+<li>Estudante de Engenharia de Software na PUC Minas.</li>
+<li>Estagiária em Data Center no Itaú Unibanco.</li>                                                                                                     
 
 <br>
 <br>                                                                                                                  
@@ -42,6 +42,8 @@
 <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />                                                       <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
                 
 </p>               
 </div> 
