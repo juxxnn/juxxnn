@@ -15,7 +15,6 @@
 <li>Pronomes: ela/dela.</li>
 <li>Tenho 26 anos e moro em São Paulo, São Paulo - Brasil.</li>
 <li>Estudante de Engenharia da Computação na UNIVESP.</li>
-<li>Estudante de Engenharia de Software na PUC Minas.</li>
 <li>Estagiária em Data Center no Itaú Unibanco.</li>                                                                                                     
 
 <br>
