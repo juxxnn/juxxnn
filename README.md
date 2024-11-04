@@ -27,6 +27,7 @@
 - [AWS Certified Cloud Practitioner](https://www.credly.com/users/juxxnn)
 - [Oracle Cloud Infrastructure Foundation 2023](https://www.credly.com/users/juxxnn)
 - [GitHub Foundations](https://www.credly.com/users/juxxnn)
+- Acesse todas minhas certificações aqui: [Credly](https://www.credly.com/users/juxxnn)
 
 <div align="center">
 <h3 align="center">📧 Conecte-se comigo</h3>
