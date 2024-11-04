@@ -1,5 +1,3 @@
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juxxnn&label=Profile%20views&color=0e75b6&style=flat" alt="juxxnn" /> </p>
 
 <!-- <h4 align="center">
@@ -16,27 +14,27 @@
 - 📚 **Estudante de Engenharia da Computação** na UNIVESP, com dupla diplomação em Tecnologia da Informação com ênfase em IoT.  
 - 💼 **Estagiária de Desenvolvimento de Software no Itaú Unibanco** – foco em soluções para Data Center, desenvolvimento web e Python, com uso de Cloud Computing.  
 
-### 💻 Skills e Tecnologias:
+<h3 align="center">💻 Skills e Tecnologias:</h3>
+
 - **Linguagens**: Python, Java, JavaScript  
 - **Frameworks**: Spring Boot, Angular, Bootstrap  
 - **Cloud**: AWS  
 - **Ferramentas**: Git, GitHub, MySQL  
 - **Metodologias Ágeis**: Kanban, Scrum, Design Thinking
   
-### 📝 Certificações
+<h3 align="center">📝 Certificações</h3>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/users/juxxnn)
 - [Oracle Cloud Infrastructure Foundation 2023](https://www.credly.com/users/juxxnn)
 - [GitHub Foundations](https://www.credly.com/users/juxxnn)
 
-<br>
-
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
+<div align="center">
+<h3 📧 Conecte-se comigo
 <a href="https://www.linkedin.com/in/julianatadeudasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/juxxnn#2841" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="mailto:julianastankovic@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+</div>
 
 <br>
 
