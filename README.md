@@ -18,13 +18,14 @@
 
 - **Linguagens**: Python, Java, JavaScript  
 - **Frameworks**: Spring Boot, Angular, Bootstrap  
-- **Cloud**: AWS  
+- **Cloud**: AWS, Azure  
 - **Ferramentas**: Git, GitHub, MySQL  
 - **Metodologias Ágeis**: Kanban, Scrum, Design Thinking
   
 <h3 align="center">📝 Certificações</h3>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/users/juxxnn)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/juxxnn/7EEC9066F6848D6E?sharingId=EA7E5417E2FF5F20).
 - [Oracle Cloud Infrastructure Foundation 2023](https://www.credly.com/users/juxxnn)
 - [GitHub Foundations](https://www.credly.com/users/juxxnn)
 - Acesse todas minhas certificações aqui: [Credly](https://www.credly.com/users/juxxnn)
