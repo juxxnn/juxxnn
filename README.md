@@ -24,10 +24,11 @@
   
 <h3 align="center">📝 Certificações</h3>
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/users/juxxnn)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/be111c2d-64f2-4fec-a4ad-923b5e1e5c9a)
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/d5a1ba5e-b5d8-4ff8-beaa-0dee1620432d)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/pt-br/juxxnn/7EEC9066F6848D6E?sharingId=EA7E5417E2FF5F20).
-- [Oracle Cloud Infrastructure Foundation 2023](https://www.credly.com/users/juxxnn)
-- [GitHub Foundations](https://www.credly.com/users/juxxnn)
+- [Oracle Cloud Infrastructure Foundation 2023](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB74F01ACBFD8B63358AC01863EF57C6DD4E895CF4C737FFE7FB495A685EEB28)
+- [GitHub Foundations](https://www.credly.com/badges/9b16186d-b314-4edc-8b01-8d4e5f08f95b)
 - Acesse todas minhas certificações aqui: [Credly](https://www.credly.com/users/juxxnn)
 
 <div align="center">
