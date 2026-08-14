@@ -11,7 +11,7 @@
 - 👋 Meu nome é Juliana Silva, mas podem me chamar de Ju.  
 - 🔹 Pronomes: ela/dela.  
 - 🌍 Localização: São Paulo, Brasil.  
-- 📚 **Estudante de Engenharia da Computação** na UNIVESP, com dupla diplomação em Tecnologia da Informação com ênfase em IoT.  
+- 📚 **Formada em Engenharia da Computação** na UNIVESP, com dupla diplomação em Tecnologia da Informação com ênfase em IoT.  
 - 💼 **Analista de Data Center no Itaú Unibanco** – atuando em Product Design e desenvolvimento para modernizar e automatizar a jornada dos clientes. 
 
 <h3 align="center">💻 Skills e Tecnologias:</h3>
